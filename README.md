@@ -47,13 +47,19 @@ We observed a difference in disease prevalence based on sex. According to our da
 We also observed geographic differences in disease prevalence. By filtering our data based on regions, we found that the majority of people with depression were from the South, and the majority of people without depression were also from the South. We can not conclude for sure if depression is more prevalent in the South or if this is the byproduct of how the survey was fielded (e.g., offered to more southerners, higher response rate from southerners, etc.). This has also been addressed under “Limitation of CDC Data”
 ![Fig6](https://github.com/ShipraGupta16/UCB_Project_1/assets/133132845/6d511d04-5028-46bd-ab5b-fbca5c5f6b15) ![Fig5](https://github.com/ShipraGupta16/UCB_Project_1/assets/133132845/efa69ed3-581c-488f-ad9b-7518ae61ba21)
 
-Lastly, we identified comorbidities and other health-related factors that strongly correlate with depression. By using the heat map matrix we were able to spot six factors that appear to have a strong correlation with depression. These factors are: 
+Lastly, we identified comorbidities and other health-related factors that strongly correlate with depression by using the heat map matrix.
+![Screenshot 2023-07-23 at 9 22 08 AM](https://github.com/ShipraGupta16/UCB_Project_1/assets/133132845/c107150d-cf5b-4cdc-8c6d-c6284c70a408)
+
+We were able to spot six factors that appear to have a strong correlation with depression. These factors are: 
+
 1) Hypertension
 2) Arthritis
 3) Overall Functional limitation
 4) Self Reported Health Status
 5) Pain Severity
-6) Smoking Status 
+6) Smoking Status
+![Screenshot 2023-07-23 at 9 56 51 AM](https://github.com/ShipraGupta16/UCB_Project_1/assets/133132845/41d70dee-6f29-4a59-af0b-a97832f3c8fc)
+![Fig3](https://github.com/ShipraGupta16/UCB_Project_1/assets/133132845/7c2767d1-3de6-4208-962c-af5470571319)
 
 ## Results
 1) Southern and Northeastern states appear to have a higher prevalence of MCCs. 
