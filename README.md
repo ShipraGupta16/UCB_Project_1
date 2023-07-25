@@ -37,7 +37,7 @@ We looked at hospital emergency room utilization by MCCs. Using grouped bar plot
 ![Screenshot 2023-07-25 at 11 58 27 AM](https://github.com/ShipraGupta16/UCB_Project_1/assets/133132845/691ce120-844e-4348-a16d-0c9384fd6f7b)
 
 We also looked at healthcare (Medicare) spend on MCC patients. By filtering our data based on MCC Group vs Total Medicare Spending Per Capita, we found that the groups with 6 or more chronic conditions have the most spending per capita. This analysis reveals that this particular subgroup requires more healthcare interventions, likely due to the complexity of managing multiple chronic conditions at once. 
-
+![Screenshot 2023-07-25 at 11 58 58 AM](https://github.com/ShipraGupta16/UCB_Project_1/assets/133132845/9f4ac101-2768-465b-b52d-5e9fd969e0c1)
 
 ## What factors are most closely associated with depression? (e.g., demographic, geographic)
 
