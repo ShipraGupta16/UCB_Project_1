@@ -45,7 +45,7 @@ We observed a difference in disease prevalence based on sex. According to our da
 ![Screenshot 2023-07-23 at 9 31 23 AM](https://github.com/ShipraGupta16/UCB_Project_1/assets/133132845/fbf8b6cf-014a-47cc-9802-842e8a0e685f)
 
 We also observed geographic differences in disease prevalence. By filtering our data based on regions, we found that the majority of people with depression were from the South, and the majority of people without depression were also from the South. We can not conclude for sure if depression is more prevalent in the South or if this is the byproduct of how the survey was fielded (e.g., offered to more southerners, higher response rate from southerners, etc.). This has also been addressed under “Limitation of CDC Data”
-![Fig6](https://github.com/ShipraGupta16/UCB_Project_1/assets/133132845/6d511d04-5028-46bd-ab5b-fbca5c5f6b15)![Fig5](https://github.com/ShipraGupta16/UCB_Project_1/assets/133132845/efa69ed3-581c-488f-ad9b-7518ae61ba21)
+![Fig6](https://github.com/ShipraGupta16/UCB_Project_1/assets/133132845/6d511d04-5028-46bd-ab5b-fbca5c5f6b15) ![Fig5](https://github.com/ShipraGupta16/UCB_Project_1/assets/133132845/efa69ed3-581c-488f-ad9b-7518ae61ba21)
 
 Lastly, we identified comorbidities and other health-related factors that strongly correlate with depression. By using the heat map matrix we were able to spot six factors that appear to have a strong correlation with depression. These factors are: 
 1) Hypertension
